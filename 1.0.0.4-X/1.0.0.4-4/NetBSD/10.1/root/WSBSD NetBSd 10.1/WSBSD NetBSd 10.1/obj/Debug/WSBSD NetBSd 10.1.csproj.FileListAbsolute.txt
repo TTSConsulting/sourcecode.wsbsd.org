@@ -1,8 +1,0 @@
-C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\NetBSD\10.1\root\WSBSD NetBSd 10.1\WSBSD NetBSd 10.1\obj\Debug\WSBSD NetBSd 10.1.csproj.AssemblyReference.cache
-C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\NetBSD\10.1\root\WSBSD NetBSd 10.1\WSBSD NetBSd 10.1\obj\Debug\WSBSD NetBSd 10.1.csproj.CoreCompileInputs.cache
-C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\NetBSD\10.1\root\WSBSD NetBSd 10.1\WSBSD NetBSd 10.1\bin\Debug\WSBSD NetBSD 10.1.exe.config
-C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\NetBSD\10.1\root\WSBSD NetBSd 10.1\WSBSD NetBSd 10.1\bin\Debug\WSBSD NetBSD 10.1.exe
-C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\NetBSD\10.1\root\WSBSD NetBSd 10.1\WSBSD NetBSd 10.1\bin\Debug\WSBSD NetBSD 10.1.pdb
-C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\NetBSD\10.1\root\WSBSD NetBSd 10.1\WSBSD NetBSd 10.1\obj\Debug\WSBSD NetBSD 10.1.exe
-C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\NetBSD\10.1\root\WSBSD NetBSd 10.1\WSBSD NetBSd 10.1\obj\Debug\WSBSD NetBSD 10.1.pdb
-C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\NetBSD\10.1\root\WSBSD NetBSd 10.1\WSBSD NetBSd 10.1\obj\Debug\WSBSD NetBSD 10.1.exe.config
