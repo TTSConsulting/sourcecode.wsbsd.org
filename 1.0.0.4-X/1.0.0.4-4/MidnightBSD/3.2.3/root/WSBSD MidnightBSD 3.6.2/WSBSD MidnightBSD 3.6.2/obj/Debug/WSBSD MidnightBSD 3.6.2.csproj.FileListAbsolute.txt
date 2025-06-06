@@ -1,0 +1,8 @@
+C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\MidnightBSD\3.2.3\root\WSBSD MidnightBSD 3.6.2\WSBSD MidnightBSD 3.6.2\bin\Debug\WSBSD MidnightBSD 3.6.2.exe.config
+C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\MidnightBSD\3.2.3\root\WSBSD MidnightBSD 3.6.2\WSBSD MidnightBSD 3.6.2\bin\Debug\WSBSD MidnightBSD 3.6.2.exe
+C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\MidnightBSD\3.2.3\root\WSBSD MidnightBSD 3.6.2\WSBSD MidnightBSD 3.6.2\bin\Debug\WSBSD MidnightBSD 3.6.2.pdb
+C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\MidnightBSD\3.2.3\root\WSBSD MidnightBSD 3.6.2\WSBSD MidnightBSD 3.6.2\obj\Debug\WSBSD MidnightBSD 3.6.2.csproj.AssemblyReference.cache
+C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\MidnightBSD\3.2.3\root\WSBSD MidnightBSD 3.6.2\WSBSD MidnightBSD 3.6.2\obj\Debug\WSBSD MidnightBSD 3.6.2.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\MidnightBSD\3.2.3\root\WSBSD MidnightBSD 3.6.2\WSBSD MidnightBSD 3.6.2\obj\Debug\WSBSD MidnightBSD 3.6.2.exe
+C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\MidnightBSD\3.2.3\root\WSBSD MidnightBSD 3.6.2\WSBSD MidnightBSD 3.6.2\obj\Debug\WSBSD MidnightBSD 3.6.2.pdb
+C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\MidnightBSD\3.2.3\root\WSBSD MidnightBSD 3.6.2\WSBSD MidnightBSD 3.6.2\obj\Debug\WSBSD MidnightBSD 3.6.2.exe.config

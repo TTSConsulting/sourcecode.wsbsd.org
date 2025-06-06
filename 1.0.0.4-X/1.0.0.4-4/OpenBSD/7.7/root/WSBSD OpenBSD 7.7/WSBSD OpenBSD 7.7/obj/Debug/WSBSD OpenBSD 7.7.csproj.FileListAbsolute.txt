@@ -1,0 +1,8 @@
+C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\OpenBSD\7.7\root\WSBSD OpenBSD 7.7\WSBSD OpenBSD 7.7\obj\Debug\WSBSD OpenBSD 7.7.csproj.AssemblyReference.cache
+C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\OpenBSD\7.7\root\WSBSD OpenBSD 7.7\WSBSD OpenBSD 7.7\obj\Debug\WSBSD OpenBSD 7.7.csproj.CoreCompileInputs.cache
+C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\OpenBSD\7.7\root\WSBSD OpenBSD 7.7\WSBSD OpenBSD 7.7\bin\Debug\WSBSD OpenBSD 7.7.exe.config
+C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\OpenBSD\7.7\root\WSBSD OpenBSD 7.7\WSBSD OpenBSD 7.7\bin\Debug\WSBSD OpenBSD 7.7.exe
+C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\OpenBSD\7.7\root\WSBSD OpenBSD 7.7\WSBSD OpenBSD 7.7\bin\Debug\WSBSD OpenBSD 7.7.pdb
+C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\OpenBSD\7.7\root\WSBSD OpenBSD 7.7\WSBSD OpenBSD 7.7\obj\Debug\WSBSD OpenBSD 7.7.exe
+C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\OpenBSD\7.7\root\WSBSD OpenBSD 7.7\WSBSD OpenBSD 7.7\obj\Debug\WSBSD OpenBSD 7.7.pdb
+C:\Users\tadeo\OneDrive\Documents\GitHub\WSBSD\WSBSD\BSDDISTROS\OpenBSD\7.7\root\WSBSD OpenBSD 7.7\WSBSD OpenBSD 7.7\obj\Debug\WSBSD OpenBSD 7.7.exe.config
